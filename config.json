@@ -1,0 +1,12 @@
+{
+    "unrar_tool": "C:\\Program Files\\WinRAR\\UnRAR.exe",
+    "search_dirs": [
+        "D:\\SteamLibrary\\steamapps\\common\\Sven Co-op\\svencoop\\models\\player",
+        "D:\\SteamLibrary\\steamapps\\common\\Sven Co-op\\svencoop_addon\\models\\player",
+        "D:\\SteamLibrary\\steamapps\\common\\Sven Co-op\\svencoop_downloads\\models\\player"
+    ],
+    "install_dir": "D:\\SteamLibrary\\steamapps\\common\\Sven Co-op\\svencoop_addon\\models\\player",
+    "temp_dir": "temp",
+    "log_dir": "D:\\SteamLibrary\\steamapps\\common\\Sven Co-op",
+    "scan_timeout": 3
+}
