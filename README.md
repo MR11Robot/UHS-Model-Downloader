@@ -94,11 +94,16 @@ Create a `config.json` file in the project directory:
 
 ## Usage
 
+1. Run the tool:
 ```bash
 python main.py
 ```
 
-The tool will start watching the latest log file. Once you join the UHS server and players start loading, it will collect all missing models and download them automatically.
+2. Join the UHS server, then type the following command in the Sven Co-op in-game console:
+```
+.model @all
+```
+This will print each player's model to the console, and the tool will automatically detect and download any missing ones.
 
 ---
 
